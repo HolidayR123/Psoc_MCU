@@ -1,0 +1,10 @@
+C:\Users\randr\OneDrive\Documents\PSoC Creator\Design of MCUs\Led.cydsn\Led.cyprj|cf02b363-bc4d-4a2f-b5d6-bd865a3a14ea
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|7e528c5a-2e16-45b4-a6f8-9379891f139d
+C:\Users\randr\OneDrive\Documents\PSoC Creator\4.4\Downloads ( 4.4).cylib\Downloads ( 4.4).cyprj|7f9f56f5-410b-4836-99c2-e07e29bfbbda
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|4e17a564-1d77-4e49-ab97-4d0eaf08b345
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|ac2c21c3-7d23-4704-ad86-e2cb3ba12417
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|9eda6249-5d99-4bcb-9572-05913c05fede
+C:\Users\randr\OneDrive\Documents\PSoC Creator\Design of MCUs\Servo_Psoc6.cydsn\Servo_Psoc6.cyprj|6635ef1d-af39-4402-8f79-c67ef055ec87
+C:\Users\randr\OneDrive\Documents\PSoC Creator\Design of MCUs\CE217637_BLE_Find_Me02.cydsn\CE217637_BLE_Find_Me02.cyprj|4f5cfb9d-af9c-4d79-bccd-2ab0baca9166
+C:\Users\randr\OneDrive\Documents\PSoC Creator\Design of MCUs\Interrupt.cydsn\Interrupt.cyprj|817354b2-e823-4a87-97af-acc0228c8d13
+C:\Users\randr\OneDrive\Documents\PSoC Creator\Design of MCUs\Potentiometer.cydsn\Potentiometer.cyprj|c46e7aff-629d-4c57-bb8f-7caea0cc212b
